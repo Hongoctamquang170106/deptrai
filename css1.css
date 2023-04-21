@@ -1,0 +1,20 @@
+h1 {
+	color: blue;
+	font-family: Agency FB;
+	font-size: 300%;
+}
+
+p{
+	color: red;
+	font-family: Monotype Corsiva;
+	font-size: 160%;
+}
+caption , td, th {
+	border:5px solid blue;
+	color:black;
+	text-align:center;
+}
+table {
+	border-collapse:collapse;
+	border:5px solid;
+}
